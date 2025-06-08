@@ -1,22 +1,29 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: In-Database Time Series Clustering
+    authors: <strong>Yunxiang Su</strong>, Kenny Ye Liang, Shaoxu Song
+    conference_short: SIGMOD
+    conference: International Conference on Management of Data <strong>(SIGMOD)</strong>, 2025.
+    pdf: https://dl.acm.org/doi/10.1145/3709696
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: Distance-Based Outlier Query Optimization in Apache IoTDB
+    authors: <strong>Yunxiang Su</strong>, Shaoxu Song, Xiangdong Huang, Chen Wang, Jianmin Wang
+    conference_short: VLDB
+    conference: International Conference on Very Large Data Bases <strong>(VLDB)</strong>, 2024.
+    pdf: https://dl.acm.org/doi/10.14778/3681954.3681962
+    image: ./assets/img/teaser_example_2.png
+
+  - title: Learning Autoregressive Model in LSM-Tree based Store
+    authors: <strong>Yunxiang Su</strong>, Wenxuan Ma, Shaoxu Song
+    conference_short: KDD
+    conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/10.1145/3580305.3599405
+    image: ./assets/img/teaser_example_2.png
+
+  - title: Time Series Data Validity
+    authors: <strong>Yunxiang Su</strong>, Yikun Gong, Shaoxu Song
+    conference_short: SIGMOD
+    conference: International Conference on Management of Data <strong>(SIGMOD)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/10.1145/3588939
     image: ./assets/img/teaser_example.png

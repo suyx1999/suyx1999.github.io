@@ -1,16 +1,14 @@
-## Services
-
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Academic Services</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li>External Conference Reviewer of International Conference on Very Large Data Bases, <a href="https://www.vldb.org/"><autocolor>VLDB</autocolor></a>, 2021-2025</li>
+  <li>Conference Reviewer of ACM SIGKDD Conference on Knowledge Discovery and Data Mining, <a href="https://kdd.org/"><autocolor>KDD</autocolor></a>, 2022-2025</li>
+  <li>External Conference Reviewer of IEEE International Conference on Data Engineering, <a href="https://ieee-icde.org/2025/"><autocolor>ICDE</autocolor></a>, 2021-2025</li>
+  <li>Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69"><autocolor>TKDE</autocolor></a>, 2024</li>
+  <li>External Reviewer of CIKM, AAAI, SIGIR...
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Honors & Awards</h4>
 
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-</ul>
+- Nantong Talent Scholarship (南通英才奖学金), 2024.
+- National Scholarship (国家奖学金), 2023.

@@ -5,10 +5,12 @@
   <li>Conference Reviewer of ACM SIGKDD Conference on Knowledge Discovery and Data Mining, <a href="https://kdd.org/"><autocolor>KDD</autocolor></a>, 2022-2025</li>
   <li>External Conference Reviewer of IEEE International Conference on Data Engineering, <a href="https://ieee-icde.org/2025/"><autocolor>ICDE</autocolor></a>, 2021-2025</li>
   <li>Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69"><autocolor>TKDE</autocolor></a>, 2024</li>
-  <li>External Reviewer of CIKM, AAAI, SIGIR...
+  <li>External Reviewer of CIKM, AAAI, SIGIR...</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Honors & Awards</h4>
 
-- Nantong Talent Scholarship (南通英才奖学金), 2024.
-- National Scholarship (国家奖学金), 2023.
+<ul style="margin:0 0 5px;">
+  <li>Nantong Talent Scholarship (南通英才奖学金), 2024.</li>
+  <li>National Scholarship (国家奖学金), 2023.</li>
+</ul>

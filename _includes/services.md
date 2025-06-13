@@ -1,4 +1,4 @@
-<h2 style="margin:0 10px 0;">Academic Services</h4>
+<h2 style="margin:0 10px 0;">Academic Services</h2>
 
 <ul style="margin:0 0 5px;">
   <li>External Conference Reviewer of International Conference on Very Large Data Bases, <a href="https://www.vldb.org/"><autocolor>VLDB</autocolor></a>, 2021-2025</li>
@@ -8,7 +8,7 @@
   <li>External Reviewer of CIKM, AAAI, SIGIR...</li>
 </ul>
 
-<h2 style="margin:0 10px 0;">Honors & Awards</h4>
+<h2 style="margin:0 10px 0;">Honors & Awards</h2>
 
 <ul style="margin:0 0 5px;">
   <li>Nantong Talent Scholarship (南通英才奖学金), 2024.</li>

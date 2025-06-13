@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, my name is Yunxiang Su (苏云祥). I am currently a fourth-year Ph.D. student at the [School of Software](https://www.thss.tsinghua.edu.cn/en/) of Tsinghua University, advised by Professor [Shaoxu Song](https://sxsong.github.io). I received my B.S. degree from the [Department of Physics])(https://www.phys.tsinghua.edu.cn/) of Tsinghua University.
+Hi, my name is Yunxiang Su (苏云祥). I am currently a fourth-year Ph.D. student at the [School of Software](https://www.thss.tsinghua.edu.cn/en/) of Tsinghua University, advised by Professor [Shaoxu Song](https://sxsong.github.io). I receivced my B.S. degree in Mathematics and Physics from the [Department of Physics](https://www.phys.tsinghua.edu.cn/) at Tsinghua University.
 
 My research primarily focuses on DB4AI, particularly database-native machine learning empowered by intrinsic database capabilities, with an emphasis on time-series data. I develop native machine learning algorithms for the open-source time-series database [Apache IoTDB](https://iotdb.apache.org) to enhance the efficiency of data processing and model training. Representative works include autoregressive model learning on LSM storage, native anomaly detection and clustering for time-series data, and robust metrics for time-series validity.
 

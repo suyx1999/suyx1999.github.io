@@ -28,9 +28,9 @@ main:
     pdf: https://dl.acm.org/doi/10.1145/3588939
     image: ./assets/img/validity.png
 
-  - title: "Turn Waste Into Wealth: On Efficient Clustering and Cleaning Over Dirty Data."
+  - title: "Turn Waste Into Wealth: On Efficient Clustering and Cleaning Over Dirty Data"
     authors: Kenny Ye Liang, <strong>Yunxiang Su</strong>, Shaoxu Song, Chunping Li
     conference_short: TKDE
     conference: IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE)</strong>, 2025.
-    pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bM5R4PIAAAAJ&sortby=pubdate&citation_for_view=bM5R4PIAAAAJ:uc_IGeMz5qoC
+    pdf: https://ieeexplore.ieee.org/document/10979462
     image: ./assets/img/repair.png

@@ -8,7 +8,7 @@ Hi, my name is Yunxiang Su (苏云祥). I am currently a fifth-year Ph.D. studen
 
 My research primarily focuses on **AI + Data**. In **Data for AI**, I worked on database-native machine learning that leverages intrinsic database capabilities to accelerate learning efficiency. I develop native machine learning algorithms for the open-source time-series database [Apache IoTDB](https://iotdb.apache.org).
 
-In **AI for Data**, I am currently exploring LLM-powered database management systems and data agents, aiming to deeply integrate the capabilities of LLMs into databases. I am now interning in the Intelligent System Group at Alibaba’s Tongyi Lab, advised by [Rong Zhu](https://redgitcard.github.io/redgitcard/). 
+In **AI for Data**, I am currently exploring LLM-powered database management systems and data agents, aiming to deeply integrate the capabilities of LLMs into databases. I am now interning in the Intelligent System Group at Alibaba’s Tongyi Lab, advised by [Rong Zhu](https://redgitcard.github.io/redgitcard/) and [Bolin Ding](https://bolinding.github.io/). 
 
 ## News
 

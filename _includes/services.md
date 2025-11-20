@@ -11,6 +11,6 @@
 <h2 style="margin:0 10px 0;">Honors & Awards</h2>
 
 <ul style="margin:0 0 5px;">
-  <li>Nantong Talent Scholarship (南通英才奖学金), 2024.</li>
+  <li>First-Class Tsinghua University Comprehensive Scholarship (清华大学综合奖学金一等), 2024, 2025.</li>
   <li>National Scholarship (国家奖学金), 2023.</li>
 </ul>
